@@ -1,0 +1,1 @@
+# http-pos2.qiwi.com
